@@ -61,7 +61,7 @@
         "img":"https://gamipress.com/wp-content/uploads/2018/12/leaderboards.svg",
         "link":"leaderboard",
         "isRouter":true,
-        "display":1,
+        "display":0,
         "status":"depreciated",
         "placeholder":""
     },
