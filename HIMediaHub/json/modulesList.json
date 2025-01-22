@@ -37,8 +37,8 @@
         "name": "Cookbook",
         "description":"Check Out Highlighted Recpies From HIMediaTV And Other Creators!",
         "img":"https://raw.githubusercontent.com/flyaway12345/Assets/refs/heads/main/HIMediaHub/img/modulePics/cookbook.jpg",
-        "link":"cookbook",
-        "isRouter":true,
+        "link":"https://flyaway12345.github.io/CookingByApproximation/",
+        "isRouter":false,
         "display":1,
         "status":"active",
         "placeholder":""
