@@ -256,10 +256,10 @@
         "name": "Milk, Bread, & Egg Index",
         "description":"Following The Cost Of Living By Tracking The Cost Of Milk Bread & Eggs",
         "img":"https://raw.githubusercontent.com/flyaway12345/Assets/refs/heads/main/HIMediaHub/img/modulePics/MBE%20Index.webp",
-        "link":"https://flyaway12345.github.io/PoemsForAlyssa/",
+        "link":"https://flyaway12345.github.io/MBEIndex/",
         "isRouter":false,
-        "display":0,
-        "status":"depreciated",
+        "display":1,
+        "status":"active",
         "placeholder":""
     }
 ]
