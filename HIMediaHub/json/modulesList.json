@@ -234,7 +234,7 @@
         "id":"20",
         "name": "Forehead TicTacToe",
         "description":"Play TicTacToe On Evans Forehead, A Sub Goal Reward",
-        "img":"https://raw.githubusercontent.com/flyaway12345/Assets/refs/heads/main/HIMediaHub/img/EvanForeheadtictactoe.png",
+        "img":"https://raw.githubusercontent.com/flyaway12345/Assets/refs/heads/main/HIMediaHub/img/modulePics/EvanForeheadtictactoe.png",
         "link":"https://flyaway12345.github.io/EvanForeheadTicTacToe/",
         "isRouter":false,
         "display":1,
