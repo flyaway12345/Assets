@@ -1,0 +1,28 @@
+[
+    {
+        "id": 0,
+        "name": "TEMPLETE",
+        "eventDate": "tba",
+        "eventTime":"tba",
+        "masterCode":"master",
+        "masterButtonLink":"https://himedia.gg",
+        "guestCode":"guest",
+        "guestButtonLink":"https://himedia.gg",
+        "helpLink":"https://himedia.gg",
+        "payLink":"https://himedia.gg",
+        "PLACEHOLDER":""
+    },
+    {
+        "id": 1,
+        "name": "TEMPLETE",
+        "eventDate": "tba",
+        "eventTime":"tba",
+        "masterCode":"master",
+        "masterButtonLink":"https://himedia.gg",
+        "guestCode":"guest",
+        "guestButtonLink":"https://himedia.gg",
+        "helpLink":"https://himedia.gg",
+        "payLink":"https://himedia.gg",
+        "PLACEHOLDER":""
+    }
+]
