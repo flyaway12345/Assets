@@ -39,8 +39,8 @@
         "img":"https://raw.githubusercontent.com/flyaway12345/Assets/refs/heads/main/HIMediaHub/img/modulePics/cookbook.jpg",
         "link":"https://flyaway12345.github.io/CookingByApproximation/",
         "isRouter":false,
-        "display":1,
-        "status":"active",
+        "display":0,
+        "status":"WIP",
         "placeholder":""
     },
     {
