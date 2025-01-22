@@ -14,15 +14,15 @@
     },
     {
         "id": 1,
-        "name": "TEMPLETE",
-        "eventDate": "tba",
-        "eventTime":"tba",
-        "masterCode":"master",
-        "masterButtonLink":"https://himedia.gg",
-        "guestCode":"guest",
-        "guestButtonLink":"https://himedia.gg",
-        "helpLink":"https://himedia.gg",
-        "payLink":"https://himedia.gg",
+        "name": "nyc",
+        "eventDate": "February 8th",
+        "eventTime":"3 PM",
+        "masterCode":"chosen",
+        "masterButtonLink":"https://form.jotform.com/250126328711146",
+        "guestCode":"trusted",
+        "guestButtonLink":"https://form.jotform.com/250155471104143",
+        "helpLink":"https://form.jotform.com/250158429285159",
+        "payLink":"https://form.jotform.com/250158429285159",
         "PLACEHOLDER":""
     }
 ]
