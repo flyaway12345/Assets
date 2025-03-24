@@ -24,7 +24,7 @@
     {
         "id":"2",
         "name": "Podcasts",
-        "description":"Listen To HIMediaTV Porduced Podcasts",
+        "description":"Listen To HIMediaTV Produced Podcasts",
         "img":"https://raw.githubusercontent.com/flyaway12345/Assets/refs/heads/main/HIMediaHub/img/modulePics/podcasts.png",
         "link":"podcasts",
         "isRouter":true,
@@ -226,7 +226,7 @@
         "img":"https://raw.githubusercontent.com/flyaway12345/Assets/refs/heads/main/HIMediaHub/img/modulePics/badtweets.jpg",
         "link":"https://flyaway12345.github.io/TakeEvansTwitterAway/",
         "isRouter":false,
-        "display":1,
+        "display":0,
         "status":"active",
         "placeholder":""
     },
@@ -237,7 +237,7 @@
         "img":"https://raw.githubusercontent.com/flyaway12345/Assets/refs/heads/main/HIMediaHub/img/modulePics/EvanForeheadtictactoe.png",
         "link":"https://flyaway12345.github.io/EvanForeheadTicTacToe/",
         "isRouter":false,
-        "display":1,
+        "display":0,
         "status":"active",
         "placeholder":""
     },
