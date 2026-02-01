@@ -83,7 +83,7 @@
         "img":"https://raw.githubusercontent.com/flyaway12345/Assets/refs/heads/main/HIMediaHub/img/modulePics/thewinstoncup.jpg",
         "link":"thewinstoncup",
         "isRouter":true,
-        "display":1,
+        "display":0,
         "status":"active",
         "placeholder":""
     },
