@@ -261,5 +261,15 @@
         "display":1,
         "status":"active",
         "placeholder":""
+    },{
+        "id":"23",
+        "name": "Radioshow",
+        "description":"The I Can't Shut Up Unless You Tell Me To Radioshow On HIMediaTV And Song List",
+        "img":"https://raw.githubusercontent.com/flyaway12345/Assets/refs/heads/main/HIMediaHub/img/modulePics/MBE%20Index.webp",
+        "link":"radioshow",
+        "isRouter":true,
+        "display":1,
+        "status":"active",
+        "placeholder":""
     }
 ]
