@@ -5,7 +5,15 @@
         "option2":"Pancakes",
         "winner":"in progress",
         "date":"3/24/26",
-        "visible":"true"
+        "visible":"visible"
+    },
+    {
+        "id":"",
+        "option1":"",
+        "option2":"",
+        "winner":"in ",
+        "date":"",
+        "visible":"hidden"
     }
     
 ]
